@@ -39,7 +39,7 @@ Start or join conference calls in just a couple clicks, on your computer, phone,
 
 ## How fern is built.
 
-Fern is a web app uses [Agora's](https://www.agora.io/en/) RTM API and Signaling API to create a fully immersive conference application.
+Fern is a web app that uses [Agora's](https://www.agora.io/en/) RTM API and Signaling API to create a fully immersive conference application.
 
 ## What's next for fern.
 Next on the list of features is screen sharing support. Whether collaborating or presenting online, we know how useful screen sharing is for our users. Check back soon for this feature!
