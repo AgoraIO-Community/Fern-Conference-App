@@ -1,5 +1,7 @@
 # ![fern.](app/assets/fern_text.svg)
 
+Try it out: [https://ink-su.github.io/fern/](https://ink-su.github.io/fern/)
+
 
 **Conference calls made simple.**
 
