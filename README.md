@@ -48,4 +48,7 @@ Next on the list of features is screen sharing support. Whether collaborating or
 
 See the github: [https://github.com/AgoraIO-Community/Fern-Conference-App]( https://github.com/AgoraIO-Community/Fern-Conference-App)
 
-Or try it out: [https://ink-su.github.io/fern/](https://ink-su.github.io/fern/)
+Try it out: [https://ink-su.github.io/fern/](https://ink-su.github.io/fern/)
+
+Or view on devpost: [https://devpost.com/software/fern/](https://devpost.com/software/fern/)
+
