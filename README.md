@@ -11,3 +11,7 @@ It supports:
 ## Demo
 Try it out here:
 https://ink-su.github.io/fern/
+
+## Info
+
+This app uses angular and agora api to created a fully integrated conferencing application.
